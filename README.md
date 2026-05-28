@@ -1,6 +1,6 @@
 # SOC Analyst cyber-portfolio
 
-This repository contains:(\n)
+This repository contains:
 
 -- ELK SIEM analysis (Working with Kibana to monitor and analyse logs),
 -- Splunk SIEM analysis (Working with Splunk to monitor and analyse logs), 
