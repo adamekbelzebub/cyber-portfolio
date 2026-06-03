@@ -9,3 +9,4 @@ This repository contains:
 * **Boogeyman 2** - Basic level of forensics analysis and investigation + memory forensics
 * **Cyber Kill Chain** - Theoretical + Practical example of well-known cyber security framework
 * **Friday Overtime** - Practical CTI Analysis + a bit of OSINT research
+* **Payload** - AI/ML Supply Chain Security Incident Response simulation
