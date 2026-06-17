@@ -2,6 +2,7 @@
 # SOC Analyst cyber-portfolio
 
 This repository contains:
+PRACTICAL
 * **CyberOps Final Course Exam** - Practical usage of Sguil, Wireshark, Kibana and VirusTotal
 * **ELK SIEM analysis** - Working with Kibana to monitor and analyse logs
 * **Splunk SIEM analysis** - Working with Splunk to monitor and analyse logs
@@ -12,5 +13,5 @@ This repository contains:
 * **Friday Overtime** - Practical CTI Analysis + a bit of OSINT research
 * **Payload** - AI/ML Supply Chain Security Incident Response simulation
 
-Theoretical:
+THEORETICAL
 * **Incident Response lifecycle** - Theoretical description + practical examples of IR
