@@ -11,3 +11,6 @@ This repository contains:
 * **Cyber Kill Chain** - Theoretical + Practical example of well-known cyber security framework
 * **Friday Overtime** - Practical CTI Analysis + a bit of OSINT research
 * **Payload** - AI/ML Supply Chain Security Incident Response simulation
+
+Theoretical:
+* **Incident Response lifecycle** - Theoretical description + practical examples of IR
